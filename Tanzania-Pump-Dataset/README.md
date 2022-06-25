@@ -1,4 +1,6 @@
-# Tanzania is the largest country in East-Africa, with a population of approximately 60 million people.
+# Tanzania - Pump Status Challenge
+
+Tanzania is the largest country in East-Africa, with a population of approximately 60 million people.
 But of those 60 million people, only 47% have access to basic water, while the rest of the population
 have no choice but to drink dirty water from unsafe sources. As a result, 4000 children each year die
 from preventable diseases due to unsafe water. Safe water is scarce, and often women and children have
