@@ -1,4 +1,4 @@
-# Tanzania - Pump Status Challenge
+# Tanzania - Water Pump Status Challenge
 
 Tanzania is the largest country in East-Africa, with a population of approximately 60 million people.
 But of those 60 million people, only 47% have access to basic water, while the rest of the population
