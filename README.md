@@ -16,7 +16,8 @@ questions:
 
 # Methodology
 
-1. Extended analysis of the dataset (``)
-2. Data Preprocessing / Imputing Missing Values (``)
-3. Feature Importance Analysis (``)
-4. Classifier Training (``)
+1. Extended analysis of the dataset (`tanzania_dataset_analysis.ipynb`)
+2. Data Preprocessing / Imputing Missing Values (`tanzania_dataset_preprocessing.ipynb`)
+3. Feature Importance Analysis (`tanzania_feature_importance.ipynb`)
+4. Classifier Training (`tanzania_training.ipynb`)
+5. Semi-Supervised Learning (`tanzania_semi_supervised`)
