@@ -12,4 +12,4 @@ questions:
 2. What is the best way to predict the functional state of Tanzanian water pumps?
 3. Which data preparation algorithms improve the predictive capabilities of a machine learning algorithm on this dataset?
 
-![Tanzania-Poster](https://github.com/kochlisGit/Predictive-Maintainance/blob/main/Tanzania-Pump-Dataset/Predicting%20pump%20Failures%20in%20Tanzania.png)
+![Tanzania-Poster](https://github.com/kochlisGit/Predictive-Maintainance-Tanzania-Water-Pumps/blob/main/Predicting%20pump%20Failures%20in%20Tanzania.png)
