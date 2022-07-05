@@ -13,11 +13,3 @@ questions:
 3. Which data preparation algorithms improve the predictive capabilities of a machine learning algorithm on this dataset?
 
 ![Tanzania-Poster](https://github.com/kochlisGit/Predictive-Maintainance-Tanzania-Water-Pumps/blob/main/Predicting%20pump%20Failures%20in%20Tanzania.png)
-
-# Methodology
-
-1. Extended analysis of the dataset (`tanzania_dataset_analysis.ipynb`)
-2. Data Preprocessing / Imputing Missing Values (`tanzania_dataset_preprocessing.ipynb`)
-3. Feature Importance Analysis (`tanzania_feature_importance.ipynb`)
-4. Classifier Training (`tanzania_training.ipynb`)
-5. Semi-Supervised Learning (`tanzania_semi_supervised`)
