@@ -20,3 +20,6 @@ This dataset includes 5 notebooks:
 3. `tanzania_train_dataset_preprocessing.ipynb`: Preprocessing of the test set based on the training set preprocessing
 4. `tanzania_classifier_training.ipynb`: Training & Hyper-parameter tuning of several machine learning classifiers
 5. `tanzania_advanced_training.ipynb`: Advanced ML training algorithms for dealing with imbalanced datasets
+
+# Dataset Download
+https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
