@@ -13,3 +13,10 @@ questions:
 3. Which data preparation algorithms improve the predictive capabilities of a machine learning algorithm on this dataset?
 
 ![Tanzania-Poster](https://github.com/kochlisGit/Predictive-Maintainance-Tanzania-Water-Pumps/blob/main/Predicting%20pump%20Failures%20in%20Tanzania.png)
+
+This dataset includes 5 notebooks:
+1. `tanzania_dataset_analysis.ipynb`: Extended analysis of the dataset
+2. `tanzania_train_dataset_preprocessing.ipynb`: Preprocessing of the training set
+3. `tanzania_train_dataset_preprocessing.ipynb`: Preprocessing of the test set based on the training set preprocessing
+4. `tanzania_classifier_training.ipynb`: Training & Hyper-parameter tuning of several machine learning classifiers
+5. `tanzania_advanced_training.ipynb`: Advanced ML training algorithms for dealing with imbalanced datasets
